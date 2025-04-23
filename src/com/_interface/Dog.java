@@ -18,7 +18,6 @@ public class Dog implements Animal {
     }
 
 
-
     public static void main(String[] args) {
 
         // 다형성
@@ -32,7 +31,6 @@ public class Dog implements Animal {
         bird.move();
 
     } // end of main
-
 }
 
 class Bird implements Animal {

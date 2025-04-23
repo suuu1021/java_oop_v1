@@ -1,6 +1,6 @@
 package com._interface;
 
-public class CompleteCalc extends Calculator{
+public class CompleteCalc extends Calculator {
 
     @Override
     public int add(int n1, int n2) {

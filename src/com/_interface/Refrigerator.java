@@ -1,6 +1,5 @@
 package com._interface;
 
-
 public class Refrigerator extends HomeAppliances
         implements RemoteController, SoundEffect {
 
