@@ -5,7 +5,7 @@ package com._interface;
 // WHY
 public interface Animal {
 
-    // 메서드 선언부만 있고 바디가 없다.
+    // 메서드 선언부만 있고 바디가 없다..
     public abstract void eat();
 
     // abstract 키워드 생략이 가능하다.
